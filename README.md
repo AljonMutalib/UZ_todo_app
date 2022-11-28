@@ -1,4 +1,4 @@
-# todo_app
+# UZ Todo App
 
 This is Custom Todo App for UZ Training.
 
