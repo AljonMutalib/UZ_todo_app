@@ -25,6 +25,10 @@ Step 4 : Login to your PhpMyAdmin
 
 Step 5 : Create todo_app Database (Case Sensitive)
 
-Step 6 : Open your Visual Code, then open folder of your flutter apps
+Step 6 : Create post_tbl inside todo_app Database
 
-Step 7 : Go to data/connect.dart (Change configuration)
+Step 7 : Table name: post_tbl, Field: ID int auto increment Primary, title varchar(100), description varchar(250)
+
+Step 8 : Open your Visual Code, then open folder of your flutter apps
+
+Step 9 : Go to data/connect.dart (Change configuration), IP Address, Username, Password, and Database Name
