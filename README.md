@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+This is Custom Todo App for UZ Training.
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Step 1 : Add mysql_client package @ pub.dev
+Step 2 : Install your PHPMyAdmin (XAMPP)
+Step 3 : Try this to create User of PhpMyAdmin (https://www.cs.virginia.edu/~up3f/cs4750/supplement/DB-setup-xampp.html)
+Step 4 : Login to your PhpMyAdmin
+Step 5 : Create todo_app Database (Case Sensitive)
+Step 6 : Open your Visual Code, then open folder of your flutter apps
+Step 7 : Go to data/connect.dart (Change configuration)
